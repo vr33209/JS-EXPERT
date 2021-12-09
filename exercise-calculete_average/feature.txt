@@ -1,0 +1,3 @@
+should not be empty
+should calculate the average of two numbers.
+the average should not bigger then 10
